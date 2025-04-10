@@ -6,12 +6,12 @@ Welcome to my LeetCode practice repository! This is where I regularly solve prob
 
 ## 📁 Structure
 
-The problems are organized by topic and difficulty:
+The problems are organized bydifficulty and topic:
 
 
 
 Each folder contains:
-- `ProblemName.java` – clean and well-documented code
+- `Solution.java` &&/|| `OptimizedSolution.java` – clean and well-documented code
 ---
 
 ## ✅ Goals
@@ -27,5 +27,5 @@ Each folder contains:
 Make sure you have Java installed. Then, compile and run any solution like this:
 
 ```bash
-javac ProblemName.java
-java ProblemName
+javac Solution.java
+java Solution
