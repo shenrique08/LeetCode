@@ -1,4 +1,3 @@
-# LeetCode
 # 🧠 LeetCode Practice
 
 Welcome to my LeetCode practice repository! This is where I regularly solve problems to improve my understanding of **algorithms** and **data structures**, with most solutions written in **Java**.
